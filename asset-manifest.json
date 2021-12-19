@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BaiTest/static/css/main.fc95b710.css",
+    "main.js": "/BaiTest/static/js/main.ece56dc8.js",
+    "static/js/787.774729bc.chunk.js": "/BaiTest/static/js/787.774729bc.chunk.js",
+    "static/media/logo.svg": "/BaiTest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BaiTest/index.html",
+    "main.fc95b710.css.map": "/BaiTest/static/css/main.fc95b710.css.map",
+    "main.ece56dc8.js.map": "/BaiTest/static/js/main.ece56dc8.js.map",
+    "787.774729bc.chunk.js.map": "/BaiTest/static/js/787.774729bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc95b710.css",
+    "static/js/main.ece56dc8.js"
+  ]
+}
